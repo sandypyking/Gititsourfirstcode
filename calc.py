@@ -7,5 +7,4 @@ return A * B
 sandeep
 print ("Divide of A / B ")
 return A / B
-For jenkins_project
-..
+Ravi added..
